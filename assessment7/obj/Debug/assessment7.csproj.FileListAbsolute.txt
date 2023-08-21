@@ -1,0 +1,8 @@
+C:\data\assessment7\assessment7\bin\Debug\assessment7.exe.config
+C:\data\assessment7\assessment7\bin\Debug\assessment7.exe
+C:\data\assessment7\assessment7\bin\Debug\assessment7.pdb
+C:\data\assessment7\assessment7\obj\Debug\assessment7.csproj.AssemblyReference.cache
+C:\data\assessment7\assessment7\obj\Debug\assessment7.csproj.SuggestedBindingRedirects.cache
+C:\data\assessment7\assessment7\obj\Debug\assessment7.csproj.CoreCompileInputs.cache
+C:\data\assessment7\assessment7\obj\Debug\assessment7.exe
+C:\data\assessment7\assessment7\obj\Debug\assessment7.pdb
